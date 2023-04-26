@@ -5,5 +5,6 @@ public class StudyClass2 {
 	public static void main(String[] args) {
 		
 		System.out.println("This is after adding..");
+		System.out.println("This is new line");
 	}
 }
